@@ -3,6 +3,7 @@ from tkinter import *  # GUI - Graphics User Interface
 from tkinter import filedialog
 from PIL import Image, ImageTk  # Pillow
 
+# Change
 
 def get_size(obj):
     print(f'Размер: {obj.__sizeof__()} байт(а)')
