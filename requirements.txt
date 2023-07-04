@@ -1,0 +1,2 @@
+pymorphy2~=0.9.1
+Pillow~=9.5.0
